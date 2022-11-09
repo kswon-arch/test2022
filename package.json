@@ -1,0 +1,26 @@
+{
+  "name": "test2022",
+  "version": "1.0.0",
+  "description": "test2022",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kswon-arch/test2022.git"
+  },
+  "keywords": [
+    "test2022"
+  ],
+  "author": "",
+  "license": "(LGPL-2.1-or-later OR GPL-2.0-or-later)",
+  "bugs": {
+    "url": "https://github.com/kswon-arch/test2022/issues"
+  },
+  "homepage": "https://github.com/kswon-arch/test2022#readme",
+  "dependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "semver": ">=7.3.8"
+  }
+}
